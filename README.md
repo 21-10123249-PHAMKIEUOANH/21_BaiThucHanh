@@ -1,5 +1,6 @@
-"# 21_BaiThucHanh - BTL" 
-"" 
-"## Develop Branch" 
-"- N?i dung t? nh nh develop" 
-"- Ch?nh s?a trˆn develop" 
+# 21_BaiThucHanh - BTL
+
+## Merged Branch
+- N?i dung t? nhánh develop  
+- N?i dung t? nhánh feature
+- Ðã gi?i quy?t conflict thành công
