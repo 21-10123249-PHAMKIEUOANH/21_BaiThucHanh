@@ -1,5 +1,5 @@
 "# 21_BaiThucHanh - BTL" 
 "" 
-"## Feature Branch" 
-"- Thˆm n?i dung t? nh nh feature" 
-"- Ng…y t?o: $(date)" 
+"## Feature Branch Updated" 
+"- N?i dung t? nh nh feature" 
+"- Ch?nh s?a kh c trˆn feature" 
